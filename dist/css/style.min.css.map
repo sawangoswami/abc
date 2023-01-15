@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss","variable.scss"],"names":[],"mappings":"AAGA,KACC,qBCJG,CDKH,SCHI,CDIJ,mBAAA","file":"style.min.css","sourcesContent":["@import 'variable';\r\n\r\n\r\nbody{\r\n\tbackground-color:$bg;\r\n\tcolor:$red ;\r\n\ttransition: 0.3s ease;\r\n}","$bg:#ccc;\r\n\r\n$red:red;"]}

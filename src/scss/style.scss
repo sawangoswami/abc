@@ -1,0 +1,8 @@
+@import 'variable';
+
+
+body{
+	background-color:$bg;
+	color:$red ;
+	transition: 0.3s ease;
+}
