@@ -1,8 +1,11 @@
 @import 'variable';
 
+@import 'pellette';
+
 
 body{
 	background-color:$bg;
 	color:$red ;
 	transition: 0.3s ease;
+	font-size: $font-size;
 }
